@@ -1,0 +1,40 @@
+.thumbnail--button:disabled{
+    background-color: #28a745;
+}
+
+.thumbnail-card--link {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.thumbnail-card--link:hover {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.thumbnail-card--button{ 
+    margin: 1rem 0;
+    width: 100% ;
+}
+
+.thumbnail-card--body {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.thumbnail-card--image {
+    height: 20vh 
+}
+
+.thumbnail-card--container {
+    width: 18rem;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem
+}

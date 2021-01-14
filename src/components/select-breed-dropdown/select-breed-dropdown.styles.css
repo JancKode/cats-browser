@@ -1,0 +1,22 @@
+.dropdown-menu {
+    height: 380px;
+    overflow-y: scroll;
+}
+
+.drop-down--container {
+    padding: .5rem;
+    width: 15rem;
+    background-color: white;
+    border-radius: .25rem;
+    border: 1px solid #ced4da;
+    height: calc(1.5em + .75rem + 2px);
+    color: #495057;
+    justify-content: space-between;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    
+    
+
+}
+
